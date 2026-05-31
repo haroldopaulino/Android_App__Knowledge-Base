@@ -32,8 +32,6 @@ The project highlights:
 - App release/version management
 - Play Store-oriented application packaging
 
-This is useful for employers because it shows practical product development: not just isolated code, but a working app with data, users, screens, backend communication, and release structure.
-
 ---
 
 ## Project Overview
