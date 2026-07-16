@@ -1,0 +1,7 @@
+com.prpinfo.bancodesolucoes.wearable-updated_navigation_xml-0 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/build/generated/updated_navigation_xml/debug
+com.prpinfo.bancodesolucoes.wearable-packageDebugResources-1 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.prpinfo.bancodesolucoes.wearable-packageDebugResources-2 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.prpinfo.bancodesolucoes.wearable-debug-3 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/build/intermediates/merged_res/debug/mergeDebugResources
+com.prpinfo.bancodesolucoes.wearable-debug-4 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/src/debug/res
+com.prpinfo.bancodesolucoes.wearable-main-5 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge-Base__Android_App/wearable/src/main/res
+gradleHome-0 /Users/harold/.gradle

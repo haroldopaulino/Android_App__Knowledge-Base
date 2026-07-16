@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.prpinfo.bancodesolucoes.wearable-mergeDebugResources-8:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/harold/.gradle/caches/9.5.0/transforms/f81ec5a9c491c4c19b0bdae09d3595ec/transformed/core-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

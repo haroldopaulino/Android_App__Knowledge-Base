@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.prpinfo.bancodesolucoes.wearable-mergeDebugResources-8:/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/Users/harold/.gradle/caches/9.5.0/transforms/f81ec5a9c491c4c19b0bdae09d3595ec/transformed/core-1.6.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "423",
+                        "endColumns": "100",
+                        "endOffsets": "519"
+                    }
+                },
+                {
+                    "source": "/Users/harold/.gradle/caches/9.5.0/transforms/233e18768da817a4732182088c5cb3de/transformed/wear-1.3.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,178,302,423,532",
+                        "endColumns": "122,123,120,108,111",
+                        "endOffsets": "173,297,418,527,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,178,302,524,633",
+                        "endColumns": "122,123,120,108,111",
+                        "endOffsets": "173,297,418,628,740"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+com.prpinfo.bancodesolucoes.wearable
+drawable ic_launcher
+string app_name
+style AppTheme
